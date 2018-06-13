@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "TDNS1dr8l2RBZ//zbIseEPgqcYY=",
+			"path": "github.com/gjvnq/go-logger",
+			"revision": "a800a8321703b8645f46e32f972954f120b60caf",
+			"revisionTime": "2017-01-28T21:12:32Z"
+		}
+	],
+	"rootPath": "git.elenet.me/ut/simple-rpc"
+}
